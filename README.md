@@ -4,9 +4,9 @@ Hey, I'm Bilel, a french developer.
 I'm currently studying at [42 Lyon](https://42lyon.fr/) where i "learn to learn".<br>
 I am also looking for new oportunities and challenges.
 
-Push_Swap : [![blakehal's 42 stats](https://badge42.vercel.app/api/v2/cldh7pjzj00350fkxdi7b9a6e/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
+[![blakehal's 42 stats](https://badge42.vercel.app/api/v2/cldh7pjzj00350fkxdi7b9a6e/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
 
-[![blakehal's 42 push_swap Score](https://badge42.vercel.app/api/v2/cldh7pjzj00350fkxdi7b9a6e/project/2904575)](https://github.com/JaeSeoKim/badge42)
+Push_Swap :  [![blakehal's 42 push_swap Score](https://badge42.vercel.app/api/v2/cldh7pjzj00350fkxdi7b9a6e/project/2904575)](https://github.com/JaeSeoKim/badge42)
 
 My hobies are:
 - American football
