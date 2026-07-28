@@ -1,13 +1,13 @@
 # Hi, I'm Bilel
 
-French developer, trained at [42 Lyon](https://42lyon.fr/). Now freelancing as a DevOps engineer on a production SaaS — Django on Heroku, Next.js on Vercel.
+French developer, trained at [42 Lyon](https://42lyon.fr/). Freelancing on a production SaaS — Django on Heroku, Next.js on Vercel — where I ship product features across the stack and built the DevOps foundation.
 
-Recent work:
+Recent work, 45+ merged PRs:
 
-- Built the CI/CD for both repos with GitHub Actions: tests, typecheck, build, and a lint ratchet that pays down debt without blocking delivery
-- Grew the backend test gate from 71 to 385 blocking tests, with quarantined tests tracked as tickets instead of silently skipped
-- Set up secret scanning (gitleaks + pre-commit), Dependabot across pip and npm, and branch protection as code
-- Currently exploring agent-based dev workflows: nightly code-review and refactoring pipelines running on a VPS
+- Backend (Django/DRF): P0 hotfix pinning the assistant's reply language to the user's, fan emails localized end to end, a mass-assignment hole closed in the signup API
+- Frontend (Next.js/React): a 12-fix mobile UX pass (onboarding, chat, paywall), shipped after checking every ticket against the source spec and rewriting the ones that contradicted it
+- DevOps: CI/CD for both repos from scratch — test gate grown from 71 to 385 blocking tests, gitleaks + pre-commit, Dependabot, lint ratchets, branch protection as code
+- On the side: agent-based dev workflows — nightly code-review and refactoring pipelines on a VPS
 
 Day-to-day stack:
 
