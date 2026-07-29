@@ -18,6 +18,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/bilel-lakehal/).
 
 ---
 
-[![GitHub streak](https://streak-stats.demolab.com/?user=BilelLk&hide_border=true&background=1A1A1A&stroke=3E3E3E&ring=FFA116&fire=FFA116&currStreakNum=EFF1F6&sideNums=EFF1F6&currStreakLabel=FFA116&sideLabels=EFF1F6&dates=8A8A8A&v=2)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=BilelLk&bg_color=1A1A1A&color=EFF1F6&line=FFA116&point=FFA116&area=true&area_color=FFA116&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![LeetCode stats](https://leetcard.jacoblin.cool/BilelLk?ext=heatmap&theme=dark)](https://leetcode.com/u/BilelLk/)
