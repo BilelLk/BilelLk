@@ -19,3 +19,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/bilel-lakehal/).
 ---
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=BilelLk&hide_border=true&theme=transparent)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/BilelLk?ext=heatmap&theme=nord)](https://leetcode.com/u/BilelLk/)
