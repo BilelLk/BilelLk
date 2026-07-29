@@ -18,6 +18,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/bilel-lakehal/).
 
 ---
 
-[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=BilelLk&bg_color=1A1A1A&color=EFF1F6&line=FFA116&point=FFA116&area=true&area_color=FFA116&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-[![LeetCode stats](https://leetcard.jacoblin.cool/BilelLk?ext=heatmap&theme=dark)](https://leetcode.com/u/BilelLk/)
+[![LeetCode stats](https://leetcard.jacoblin.cool/BilelLk?ext=heatmap&theme=nord)](https://leetcode.com/u/BilelLk/)
