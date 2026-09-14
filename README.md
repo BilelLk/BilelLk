@@ -17,5 +17,3 @@ Day-to-day stack:
 Find me on [LinkedIn](https://www.linkedin.com/in/bilel-lakehal/).
 
 ---
-
-[![LeetCode stats](https://leetcard.jacoblin.cool/BilelLk?ext=heatmap&theme=nord)](https://leetcode.com/u/BilelLk/)
